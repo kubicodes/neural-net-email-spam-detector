@@ -2,6 +2,10 @@
 
 A neural network that classifies emails as spam or not spam. Built this as a capstone project after completing Andrew Ng's Machine Learning Specialization to get hands-on experience with the full ML workflow.
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1W_jN3LEady8TXbC55-o0re44AGxqw9_o?usp=sharing)
+
+Run the notebook interactively in Google Colab - no setup required.
+
 ## Dataset
 
 Using the [Spambase dataset](https://archive.ics.uci.edu/ml/datasets/spambase) from UCI Machine Learning Repository. It contains 4601 emails, each represented as 57 features:
